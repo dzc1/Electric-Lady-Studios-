@@ -1793,7 +1793,7 @@
  
      .themesflat-pagination, .woocommerce-pagination { margin-top: 40px; }
  
-     .rev_slider_wrapper .themesflat-button.big.video { line-height: 40px; font-size: 12px; padding: 0px 18px 0px 18px; }
+     .rev_slider_wrapper .themesflat-button.big.video { line-height: 40px; font-size: 12px; padding: 0px 12px 0px 12px; }
      .rev_slider_wrapper .themesflat-button.big.video i.font-size-25 { font-size: 16px; }
      .rev_slider_wrapper .themesflat-button.big { font-size: 12px; line-height: 40px;  padding: 0px 20px; }
  
